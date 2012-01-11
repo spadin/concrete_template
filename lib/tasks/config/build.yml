@@ -1,0 +1,23 @@
+# Optional
+# project_name: virtual_classroom
+# tmp_dir:      tmp
+# build_dir:    build
+
+# Directories to copy in the build
+# directories:
+#   - blocks
+#   - controllers
+#   - css
+#   - elements
+#   - images
+#   - js
+#   - models
+#   - single_pages
+#   - themes
+#   - tools
+
+# Single files not contained in the directories above
+# that need to be copied into the build.
+# single_files:
+#   - db.xml
+#   - controller.php
