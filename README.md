@@ -48,3 +48,10 @@ the directories that Concrete5 expects, including:
 
 CoffeeScripts and LESS files should be added into the `lib/src` directory under 
 the `js` or `css` directories respectively.
+
+Configuring the build task
+--------------------------
+
+If you need to edit the way files are being packaged, take a look inside the 
+`lib/tasks` directory. You may need to add your configuration in the 
+`lib/tasks/config/build.yml` file.
